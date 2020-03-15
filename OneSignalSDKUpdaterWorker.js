@@ -1,0 +1,1 @@
+const swRevision="190617";importScripts("https://gracefullight.dev/sw.js?190617"),importScripts("https://cdn.onesignal.com/sdks/OneSignalSDKWorker.js");
